@@ -1,4 +1,4 @@
-# Assignments Week 3
+# Assignments Week 7
 # Introduction
 The goal of this assignment is to perform a protein database search on a result file from an HPLC-MS/MS run. This search should identify a range of peptides and their corresponding proteins.
 # Input data

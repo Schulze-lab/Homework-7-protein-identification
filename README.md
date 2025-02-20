@@ -1,4 +1,4 @@
-# Assignments Week 7
+# Assignments Week 6
 # Introduction
 The goal of this assignment is to perform a protein database search for one of the publicly available datasets for Streptococcus mutans. This search should identify a range of peptides and their corresponding proteins. In the lab, we will go through the usage of the Python framework Ursgal, but you are welcome to use any protein database search that you see fit.
 # Input data
